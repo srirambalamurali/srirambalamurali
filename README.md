@@ -103,7 +103,7 @@
 
 `Python` `Scikit-learn` `FastAPI` `Pandas` `NumPy` `Vercel`
 
-[🔗 View Repository](https://github.com/srirambalamurali/REPO-NAME-2)
+[🔗 View Repository](https://github.com/srirambalamurali/customer_chun_prg_new)
 
 ---
 
