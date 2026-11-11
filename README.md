@@ -91,7 +91,7 @@
 
 `Python` `FastAPI` `LangGraph` `LangChain` `ChromaDB` `PostgreSQL` `Docker` `Azure`
 
-[🔗 View Repository](https://github.com/srirambalamurali/REPO-NAME-1)
+[🔗 View Repository](https://github.com/srirambalamurali/ai_marketgap)
 
 ---
 
