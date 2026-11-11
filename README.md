@@ -17,13 +17,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **MCA student** at Bishop Heber College (2024–2026)
+- 🎓 **MCA graduate** from Bishop Heber College (2024–2026)
 - 🤖 Aspiring **AI/ML Engineer** with a strong base in Python, Machine Learning and Data Science
 - 🚀 I build and deploy **end-to-end AI applications** using FastAPI, Scikit-learn, LangChain, LangGraph, ChromaDB, Docker and Azure
-- 🌱 Currently learning **advanced RAG, LLM applications, MLOps and cloud deployment**
+- 🧠 Hands-on experience building **RAG pipelines** and **ML prediction apps**
 - 💼 Looking for **AI/ML Engineer** or **Python Developer** opportunities
-- 📫 Reach me at **sriyogi5555@gmail.com**
-
+- 📫 Reach me at [sriyogi5555@gmail.com](mailto:sriyogi5555@gmail.com)
 ---
 
 ## 🛠️ Tech Stack
